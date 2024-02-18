@@ -2,10 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom right, #2E8B57, #4682B4), /* Fondo degradado */
-                url('logo.png') center/cover; /* Imagen de fondo */
-                background-image: url('logo.png');
-                background-size: cover;
+    background: linear-gradient(to bottom right, #2E8B57, #4682B4), url('logo.png') center/cover;
 
 }
 
@@ -79,4 +76,3 @@ li {
     right: 10px;
     cursor: pointer;
 }
-
